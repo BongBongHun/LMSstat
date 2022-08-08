@@ -6,7 +6,6 @@
 #'
 #' @return List including Result Matrix of p-values, converted datas.
 #' @export
-#'
 #' @examples
 #' data("Data")
 #' Result <- All_stats(Data)
